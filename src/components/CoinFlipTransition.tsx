@@ -44,7 +44,7 @@ export function CoinFlipTransition({ onComplete }: CoinFlipTransitionProps) {
             }}
           >
             <ImageWithFallback
-              src="me.jpg"
+              src="https://avatars.githubusercontent.com/u/180744442?v=4"
               alt="Portfolio"
               className="w-full h-full object-cover"
             />
