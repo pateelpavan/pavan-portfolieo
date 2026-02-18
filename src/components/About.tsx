@@ -12,7 +12,7 @@ export function About() {
   const skills = [
     {
       icon: Code2,
-      title: "Full Stack Development",
+      title: "front end developer",
       description: "Expert in building scalable web applications with modern technologies",
       technologies: ["React", "Node.js", "TypeScript", "Python"],
     },
@@ -48,7 +48,7 @@ export function About() {
                 className="relative w-72 h-72 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-neutral-700"
               >
                 <ImageWithFallback
-                  src="me.jpg"
+                  src="https://avatars.githubusercontent.com/u/180744442?v=4"
                   alt="Professional Portrait"
                   className="w-full h-full object-cover"
                 />
@@ -108,7 +108,7 @@ export function About() {
               className="text-2xl md:text-3xl text-neutral-300 mb-6"
             >
               <span className="inline-block">
-                Full Stack Developer,Prompt developer
+                front end developer,Prompt developer
               </span>
             </motion.div>
             
